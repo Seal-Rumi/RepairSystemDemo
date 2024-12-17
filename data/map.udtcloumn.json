@@ -1,0 +1,10 @@
+{
+  "bool": ["boolean"],
+  "int8": ["bigint"],
+  "int4": ["SERIAL", "int", "INTEGER", "bigint"],
+  "int2": ["smallint"],
+  "bytea": ["BYTEA"],
+  "float8": ["float"],
+  "_float8": ["float[]"],
+  "_int4": ["int[]"]
+}

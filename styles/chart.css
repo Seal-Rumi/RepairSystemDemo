@@ -1,0 +1,17 @@
+.chart-container {
+  flex: 1;
+  /* margin-right: 1vw; */
+  background: #1a1d3a;
+  background: linear-gradient(0deg, #f5f5f5 0%, #ffffff 100%);
+  border-radius: 6px;
+  /* padding: 20px; */
+}
+
+.chart-container p {
+  /* margin: 0; */
+  text-align: center;
+  color: white;
+  font-size: 20px;
+  font-weight: 900;
+  margin-bottom: 4vh;
+}
